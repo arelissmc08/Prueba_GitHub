@@ -1,3 +1,5 @@
-print("hello world" \
-"")
+
 #COMENT
+nombre="Carlos"
+print(nombre)
+
